@@ -21,7 +21,7 @@
     "react-parallax": "^3.0.3",
     "react-router-dom": "^5.2.0",
     "react-router-ga": "^1.2.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-svg": "^11.0.25"
   },
   "scripts": {
